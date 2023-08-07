@@ -1,0 +1,10 @@
+{ 
+"id":12345, 
+"source":"source1", 
+"specversion":"1"
+"type":"type1"
+"correlationid":23
+"datacontenttype":"xxxxxxxxxxxxxxxxx"
+"time":null 
+"globaluserid":"zzzzzzzz" 
+}
