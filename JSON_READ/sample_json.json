@@ -7,4 +7,14 @@
 "datacontenttype":"xxxxxxxxxxxxxxxxx"
 "time":null 
 "globaluserid":"zzzzzzzz" 
+},
+{ 
+"id":67890, 
+"source":"source2", 
+"specversion":"2"
+"type":"type1"
+"correlationid":23
+"datacontenttype":"xxxxxxxxxxxxxxxxx"
+"time":null 
+"globaluserid":"eeeeeee" 
 }
